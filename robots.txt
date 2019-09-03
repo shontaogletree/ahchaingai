@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iepahmaiwu.catseye.graphics/sitemap.xml
